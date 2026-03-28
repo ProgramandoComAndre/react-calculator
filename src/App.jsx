@@ -22,9 +22,9 @@ function App() {
   }
   return (
     <>
-    <h1>Calculator</h1>
+    
     <div className='calculator'>
-      
+      <h1>Calculator</h1>
       <Display display={display} />
       <Keyboard handleNumber={handleNumber} />
       <button onClick={() => {
