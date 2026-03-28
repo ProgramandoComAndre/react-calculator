@@ -1,0 +1,10 @@
+.calculator {
+    display: grid;
+    justify-content: center;
+    margin-top: 10%;
+    margin-left: 30px;
+}
+
+.calculator h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}

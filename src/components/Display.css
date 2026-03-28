@@ -1,0 +1,11 @@
+.display {
+    background-color: whitesmoke;
+    display: block;
+    margin-bottom: 5%;
+}
+
+.display .display-number {
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}

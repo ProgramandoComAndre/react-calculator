@@ -1,0 +1,19 @@
+.action-button {
+    background-color: whitesmoke;
+    align-items: center;
+    justify-content: center;
+}
+
+.action-button:hover {
+    background-color: bisque;
+}
+.action-button-zero {
+    grid-column: span 2;
+}
+
+.action-button .display-action {
+    font-size: 1.9em;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
